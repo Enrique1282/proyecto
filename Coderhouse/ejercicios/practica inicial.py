@@ -1,0 +1,6 @@
+pj = int(input("partidos jugados"))
+pg = int(input("partidos ganados"))
+pe = int(input("partidos empatados"))
+pp = int(input("partidos perdidos"))
+promedio_final = ((pg*3+pe*1+pp*0)/pj)
+print("promedio_final",promedio_final )

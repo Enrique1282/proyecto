@@ -1,0 +1,13 @@
+roberto:456
+carlos:676
+fulgencio:3456
+daniel : 789
+xxxxx : 9999
+ruben : car345
+walter : find345
+juan : ret567
+carlos : 676
+dardo : 4567
+dardo : run456
+dardo : re456
+pepe : 0987
